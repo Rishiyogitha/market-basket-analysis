@@ -1,4 +1,4 @@
-This repository houses a project involving Market Basket Analysis, which is a data mining method utilized to determine the patterns of buying behavior among customers. The project applies association rule mining to identify patterns of purchasing of items often bought together.
+This repository contains a project on Market Basket Analysis, a data mining technique used to uncover patterns in customer purchasing behavior. The implementation is inspired by the work of Aman Kumar, with modifications and enhancements to align with the project’s objectives. The project leverages association rule mining to identify frequently purchased item combinations, providing valuable insights into consumer buying patterns.
 Project Objectives
 
 - Examine transactional data to find frequent itemsets.
